@@ -16,10 +16,10 @@ ENFIELD_TENNIS_ACADEMY = [
   "Michael Pemulis"
 ]
 
-def assembled_matrix [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+def assembled_matrix 
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
-  
+  [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
 end
 
 def array_literal_matrix
